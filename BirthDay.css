@@ -142,6 +142,10 @@ p {
 }
 p.pMain {
   margin-top: 45px;
+  line-height: 15px;
+}
+p.psub {
+  line-height: 15px;
 }
 
 .name {
