@@ -142,16 +142,16 @@ p {
 }
 p.pMain {
   margin-top: 45px;
-  line-height: 15px;
+  line-height: 16px;
 }
 p.psub {
-  line-height: 15px;
+  line-height: 16px;
 }
 
 .name {
   position: absolute;
   left: 175px;
-  top: 275px;
+  top: 290px;
   color: #333;
 }
 
